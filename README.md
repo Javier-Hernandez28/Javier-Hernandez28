@@ -1,16 +1,49 @@
-## Hi there 👋
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Bievenido&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-<!--
-**Javier-Hernandez28/Javier-Hernandez28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 data-importer="text" align="left"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<br clear="both">
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media1.tenor.com/m/CVni7ldaRHEAAAAC/pusheen-pusheen-cat.gif"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">Cosas sobre mi</h2>
+
+###
+
+<p data-importer="text" align="left">✨ Pregúntame sobre Java y SQL<br>📚 Actual aprendiendo Java, SQL y CSS.<br>🎯 Quiero ser un ingeniero en sistemas sobre Aeroespacial</p>
+
+###
+
+<br clear="both">
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javier-Hernandez28/Javier-Hernandez28/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Javier-Hernandez28/Javier-Hernandez28/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Javier-Hernandez28/Javier-Hernandez28/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
