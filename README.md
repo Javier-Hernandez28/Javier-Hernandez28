@@ -8,14 +8,6 @@
 
 ###
 
-<br clear="both">
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media1.tenor.com/m/CVni7ldaRHEAAAAC/pusheen-pusheen-cat.gif"  />
-</div>
-
-###
-
 <h2 data-importer="text" align="left">✨ Cosas sobre mí</h2>
 
 ###
